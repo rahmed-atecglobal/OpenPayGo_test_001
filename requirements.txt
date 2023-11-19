@@ -1,0 +1,2 @@
+openpaygo==0.5.4
+siphash==0.0.1
